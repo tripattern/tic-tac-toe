@@ -12,7 +12,7 @@ jobs:
         node-version: [13.x,14.x]
 
     steps:
-    - uses: actions/checkout@v1
+    - uses: actions/checkout@v2
 # This caches the node modules so that it builds faster
 #    - name: Cache node modules
 #      uses: actions/cache@v1
