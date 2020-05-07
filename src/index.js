@@ -47,6 +47,7 @@ class Game extends React.Component {
     render() {
         return (
             <div className="game">
+                <p>Checking deploy job!!!</p>
                 <div className="game-board">
                     <Board />
                 </div>
