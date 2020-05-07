@@ -2,4 +2,4 @@
 
 # Status
 ## Github Actions
-![](https://github.com/tripattern/tic-tac-toe/workflows/ticTacToe/badge.svg)
+![](https://github.com/tripattern/tic-tac-toe/workflows/tic-tac-toe/badge.svg)
